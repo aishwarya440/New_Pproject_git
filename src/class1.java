@@ -50,7 +50,7 @@ public class class1 {
 			}
 			result += word;
 		}
-		System.out.println(result);
+		System.out.println(result);//New comment for new commit
 
 	}
 
